@@ -1,0 +1,22 @@
+hardest card
+There are no cards with errors.
+import
+File name:
+capitals.txt
+1 cards have been loaded
+hardest card
+The hardest card is "France". You have 2 errors answering it
+ask
+How many times to ask?
+1
+Print the definition of "France":
+Wrong. The right answer is "Paris".
+hardest card
+The hardest card is "France". You have 3 errors answering it
+reset stats
+Card statistics have been reset.
+hardest card
+There are no cards with errors.
+log
+File name:
+todayLog.txt

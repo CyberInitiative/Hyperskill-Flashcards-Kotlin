@@ -1,0 +1,2 @@
+Japan=Tokyo=0
+France=Paris=0
